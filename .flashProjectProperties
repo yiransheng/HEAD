@@ -1,0 +1,31 @@
+<projectDescription>
+  <id>1273743999812</id>
+  <name>DragonWorld</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Documents and Settings/RaymondZhang/Local Settings/Application Data/Adobe/Flash CS4/zh_CN/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Documents and Settings/RaymondZhang/Local Settings/Application Data/Adobe/Flash CS4/zh_CN/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///D|/Raymond%20Zhang/My%20Documents/ThisSemester/ArtDesign/DragonWorld%202/DragonWorld/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="game.fla">file:///D|/Raymond Zhang/My Documents/ThisSemester/ArtDesign/DragonWorld 2/DragonWorld/game.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="GameEvents.as">file:///D|/Raymond%20Zhang/My%20Documents/ThisSemester/ArtDesign/DragonWorld%202/DragonWorld/GameFundation/GameEvents.as</uri>
+    <uri label="Game.as">file:///D|/Raymond%20Zhang/My%20Documents/ThisSemester/ArtDesign/DragonWorld%202/DragonWorld/Game.as</uri>
+    <uri label="GameMap.as">file:///D|/Raymond%20Zhang/My%20Documents/ThisSemester/ArtDesign/DragonWorld%202/DragonWorld/GameMap.as</uri>
+    <uri label="game.fla">file:///D|/Raymond%20Zhang/My%20Documents/ThisSemester/ArtDesign/DragonWorld%202/DragonWorld/game.fla</uri>
+    <uri label="Wall.as">file:///D|/Raymond%20Zhang/My%20Documents/ThisSemester/ArtDesign/DragonWorld%202/DragonWorld/Wall.as</uri>
+    <uri label="Starlike.as">file:///D|/Raymond%20Zhang/My%20Documents/ThisSemester/ArtDesign/DragonWorld%202/DragonWorld/GameFundation/Starlike.as</uri>
+    <uri label="EventParam.as">file:///D|/Raymond%20Zhang/My%20Documents/ThisSemester/ArtDesign/DragonWorld%202/DragonWorld/GameFundation/EventParam.as</uri>
+    <uri label="Star.as">file:///D|/Raymond%20Zhang/My%20Documents/ThisSemester/ArtDesign/DragonWorld%202/DragonWorld/Star.as</uri>
+    <uri label="ShowableStar.as">file:///D|/Raymond%20Zhang/My%20Documents/ThisSemester/ArtDesign/DragonWorld%202/DragonWorld/ShowableStar.as</uri>
+    <uri label="GameMap.as">file:///D|/Raymond Zhang/My Documents/ThisSemester/ArtDesign/DragonWorld 2/DragonWorld/GameMap.as</uri>
+    <uri label="Wall.as">file:///D|/Raymond Zhang/My Documents/ThisSemester/ArtDesign/DragonWorld 2/DragonWorld/Wall.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
